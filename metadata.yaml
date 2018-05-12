@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4056
     wikipedia: http://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29636#Una-notte-bizzarra
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2009-08-08'
 gutenberg_type: Text
