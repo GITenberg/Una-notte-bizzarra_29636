@@ -1,0 +1,29 @@
+_repo: Una-notte-bizzarra_29636
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrili, Anton Giulio
+    alias: Barrili, Antonio Giulio
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '4056'
+    url: http://www.gutenberg.org/2009/agents/4056
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2009-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29636'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction'
+title: Una notte bizzarra
+url: http://www.gutenberg.org/ebooks/29636
